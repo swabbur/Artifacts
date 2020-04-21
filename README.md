@@ -1,2 +1,2 @@
-# Maven-Artifacts
+# Artifacts
 A Git repository housing a Maven repository.
