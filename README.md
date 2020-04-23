@@ -2,16 +2,7 @@
 A Git repository housing a Maven repository.
 
 ## Adding Dependencies
-Adding a dependency build using Maven can be done using the `add` script.
-```shell
-git clone https://github.com/swabbur/Artifacts
-cd Artifacts
-./add.sh /path/to/dependency.jar
-...
-git add -A
-git commit -m "..."
-git push
-```
+To add dependencies, simply copy the dependencies files from your local maven repository into the git folder.
 
 ## Using Dependencies
 Using the Maven repository is as simple as adding it to the `pom.xml` of your project.
