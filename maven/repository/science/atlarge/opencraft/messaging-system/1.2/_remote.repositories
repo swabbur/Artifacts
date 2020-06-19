@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 19 17:25:07 CEST 2020
+messaging-system-1.2.jar>=
+messaging-system-1.2-sources.jar>=
+messaging-system-1.2.pom>=
+messaging-system-1.2-javadoc.jar>=
